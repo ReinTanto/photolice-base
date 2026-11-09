@@ -21,7 +21,7 @@
 | **Theme** | Shirakami Fubuki (Hololive) |
 | **Sourced from** | Laser-cut acrylic supplier |
 
-> The original [Photolice](https://github.com/ReinTanto/photolice) concept included a fold-out TCG card holder and a wrist rest. Photolice Base is the produced version of that concept — same card-slot idea, but without the wrist rest and with only a single card slot on the back of the case.
+> The original [Photolice](https://github.com/ReinTanto/photolice) concept included an intergrated TCG card holder and a wrist rest. Photolice Base is the produced version of that concept — same card-slot idea, but without the wrist rest and with only a single card slot on the back of the case.
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 🃏 The Design
 
-Photolice Base is the **produced** version of the [Photolice](https://github.com/ReinTanto/photolice) concept. The original Photolice was a CNC-machined aluminium Alice-layout keyboard with a fold-out TCG card holder and a wrist rest. Photolice Base keeps the card-slot idea but drops the wrist rest and reduces the card display to a single slot on the back of the case.
+Photolice Base is the **produced** version of the [Photolice](https://github.com/ReinTanto/photolice) concept. The original Photolice was a CNC-machined aluminium Alice-layout keyboard with an intergrated TCG card holder and a wrist rest. Photolice Base keeps the card-slot idea but drops the wrist rest and reduces the card display to a single slot on the back of the case.
 
 The case is built from **stacked laser-cut acrylic** layers, giving it a translucent, layered look. The acrylic plate sits on top of the stacked case, and the single card slot on the back lets a TCG card sit on display — a nod to the original Photolice's "keyboard as card stand" concept, simplified.
 
